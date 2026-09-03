@@ -169,7 +169,6 @@ Hospital-Management-SQL-Analytics/
 ├── README.md
 │
 ├── sql/
-│   ├── 01_database_setup.sql
 │   ├── 02_data_exploration.sql
 │   ├── 03_data_quality.sql
 │   ├── 04_patient_analysis.sql
@@ -177,8 +176,7 @@ Hospital-Management-SQL-Analytics/
 │   ├── 06_doctor_analysis.sql
 │   └── 07_hospital_analysis.sql
 │
-├── powerbi/
-│   └── Hospital_Management_Analytics.pbix
+├── hospital_management_analytics.pbix
 │
 └── dashboard/
     └── hospital_dashboard.png
